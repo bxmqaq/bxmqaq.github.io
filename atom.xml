@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bxmqaq.github.io</id>
     <title>bxmqaq</title>
-    <updated>2021-09-23T13:13:41.643Z</updated>
+    <updated>2021-09-25T10:11:10.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bxmqaq.github.io"/>
     <link rel="self" href="https://bxmqaq.github.io/atom.xml"/>
@@ -10,6 +10,22 @@
     <logo>https://bxmqaq.github.io/images/avatar.png</logo>
     <icon>https://bxmqaq.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, bxmqaq</rights>
+    <entry>
+        <title type="html"><![CDATA[辐射4-汉化]]></title>
+        <id>https://bxmqaq.github.io/post/fu-she-4-han-hua/</id>
+        <link href="https://bxmqaq.github.io/post/fu-she-4-han-hua/">
+        </link>
+        <updated>2021-09-25T10:00:33.000Z</updated>
+        <content type="html"><![CDATA[<p>安装方法：<br>
+请先完整卸载你之前的汉化。<br>
+直接将游戏汉化包压缩包解压缩到游戏目录覆盖。<br>
+为了使汉化生效还需要下载Fallout4Custom.rar 将该包内的Fallout4Custom.ini 解压缩至 “我的文档\My Games\Fallout4&quot;。<br>
+<img src="https://bxmqaq.github.io/post-images/1632564525709.jpg" alt="" loading="lazy"></p>
+<p>卸载方法：<br>
+对照压缩包中的文件依次删除即可，Fallout4_Default.ini可以忽略。</p>
+<p>下载地址：https://bxm2018.lanzoui.com/b05ti3x1a  密码:11</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://bxmqaq.github.io/post/hello-gridea/</id>
