@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bxmqaq.github.io</id>
     <title>bxmqaq</title>
-    <updated>2021-09-25T14:28:23.304Z</updated>
+    <updated>2021-09-25T14:34:30.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bxmqaq.github.io"/>
     <link rel="self" href="https://bxmqaq.github.io/atom.xml"/>
@@ -11,11 +11,43 @@
     <icon>https://bxmqaq.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, bxmqaq</rights>
     <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://bxmqaq.github.io/post/hello-gridea/</id>
+        <link href="https://bxmqaq.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="http://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[辐射4-本体全成就（同伴+收集）]]></title>
         <id>https://bxmqaq.github.io/post/fu-she-4-ben-ti-quan-cheng-jiu-shou-ji/</id>
         <link href="https://bxmqaq.github.io/post/fu-she-4-ben-ti-quan-cheng-jiu-shou-ji/">
         </link>
-        <updated>2021-09-25T14:12:31.000Z</updated>
+        <updated>2016-09-25T14:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>同伴<br>
 <img src="https://bxmqaq.github.io/post-images/1632579284603.png" alt="" loading="lazy"><br>
 Never Go It Alone:Recruit 5 Separate Companionsn天涯不独行：招募5名单独的同伴<br>
@@ -70,7 +102,7 @@ They're Not Dolls…:Collect 10 Vault-Tec Bobbleheads<br>
         <id>https://bxmqaq.github.io/post/fu-she-4-ben-ti-quan-cheng-jiu-bi-hu-suo-zhi-zao-deng-ji/</id>
         <link href="https://bxmqaq.github.io/post/fu-she-4-ben-ti-quan-cheng-jiu-bi-hu-suo-zhi-zao-deng-ji/">
         </link>
-        <updated>2021-09-25T13:59:08.000Z</updated>
+        <updated>2016-09-25T13:55:00.000Z</updated>
         <content type="html"><![CDATA[<p>庇护所<br>
 <img src="https://bxmqaq.github.io/post-images/1632578573305.png" alt="" loading="lazy"><br>
 Sanctuary:Complete &quot;Sanctuary&quot; 庇护所：完成&quot;庇护所&quot;任务<br>
@@ -108,7 +140,7 @@ Legend Of The Wastes:Reach Level 50  废土传奇人物：达到等级50</p>
         <id>https://bxmqaq.github.io/post/fu-she-4-ben-ti-quan-cheng-jiu-shi-li/</id>
         <link href="https://bxmqaq.github.io/post/fu-she-4-ben-ti-quan-cheng-jiu-shi-li/">
         </link>
-        <updated>2021-09-25T13:38:00.000Z</updated>
+        <updated>2016-09-25T13:38:00.000Z</updated>
         <content type="html"><![CDATA[<p>学院线<br>
 <img src="https://bxmqaq.github.io/post-images/1632577345502.png" alt="" loading="lazy"><br>
 Institutionalized:Complete &quot;Institutionalized&quot;  学院感化：完成&quot;学院感化&quot;任务<br>
@@ -159,7 +191,7 @@ Rockets' Red Glare:Complete &quot;Rockets' Red Glare&quot; 火箭赤焰：完成
         <id>https://bxmqaq.github.io/post/fu-she-4-ben-ti-quan-cheng-jiu/</id>
         <link href="https://bxmqaq.github.io/post/fu-she-4-ben-ti-quan-cheng-jiu/">
         </link>
-        <updated>2021-09-25T13:17:38.000Z</updated>
+        <updated>2016-09-25T13:20:00.000Z</updated>
         <content type="html"><![CDATA[<p><img src="https://bxmqaq.github.io/post-images/1632576093178.jpg" alt="" loading="lazy"><br>
 War Never Changes:Enter The Wasteland 战争永远不变：进入废土世界<br>
 获得方式：成功逃出111避难所</p>
@@ -198,7 +230,7 @@ Prepared for the Future:Decide the Fate of the Commonwealth 为未来做准备�
         <id>https://bxmqaq.github.io/post/fu-she-4-han-hua/</id>
         <link href="https://bxmqaq.github.io/post/fu-she-4-han-hua/">
         </link>
-        <updated>2021-09-25T10:00:33.000Z</updated>
+        <updated>2016-09-25T10:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>安装方法：<br>
 请先完整卸载你之前的汉化。<br>
 直接将游戏汉化包压缩包解压缩到游戏目录覆盖。<br>
@@ -207,38 +239,6 @@ Prepared for the Future:Decide the Fate of the Commonwealth 为未来做准备�
 <p>卸载方法：<br>
 对照压缩包中的文件依次删除即可，Fallout4_Default.ini可以忽略。</p>
 <p>下载地址：https://bxm2018.lanzoui.com/b05ti3x1a  密码:11</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://bxmqaq.github.io/post/hello-gridea/</id>
-        <link href="https://bxmqaq.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
